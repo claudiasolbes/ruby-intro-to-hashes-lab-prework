@@ -1,11 +1,11 @@
 def new_hash
   hash = {}
-  return new_hash
+  return hash
 end
 
 def actor
  famous_people {name: "Dwayne The Rock Johnson"}
- return actor
+ return famous_people
 end
 
 def monopoly
