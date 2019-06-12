@@ -4,7 +4,7 @@ def new_hash
 end
 
 def actor
- famous_people {name: "Dwayne The Rock Johnson"}
+ famous_people = {name: "Dwayne The Rock Johnson"}
  return famous_people
 end
 
